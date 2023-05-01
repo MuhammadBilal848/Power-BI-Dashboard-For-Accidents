@@ -1,0 +1,13 @@
+total casulaties wrt time
+total injuered wrt date
+total killed wrt to loc  (TOTAL CASUALTIED WRT DATE)
+total injured wrt to loc
+ppl killed wrt day
+total casualties wrt day
+total casualties wrt month
+word cloud of factors
+total casulaties wrt vehicle type(page level filter where casualaties are > 500)
+ 
+EXTRA:
+ADD average constant lines where needed(avg killed and avg injured)
+
